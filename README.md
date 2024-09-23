@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christos Koustenis</h1>
 <h3 align="center">A software engineering student at NTUA in Greece</h3>
 
-- 🌱 I’m currently learning **Java**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
