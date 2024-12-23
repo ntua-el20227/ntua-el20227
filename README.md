@@ -14,5 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntua-el20227&show_icons=true&locale=en" alt="ntua-el20227" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntua-el20227&" alt="ntua-el20227" /></p>
 
